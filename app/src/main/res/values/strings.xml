@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GroceriesApp</string>
+    <string name="get_started">Get Started</string>
+    <string name="loging">Loging</string>
+    <string name="enter_your_">Enter your emails and password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="already_hav">Already have an account? Singup</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_credentials">Enter your credentials to continue</string>
+    <string name="username">Username</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="donthave">Don"'"t have an account? Singup</string>
+    <string name="by_continui">By continuing you agree to our Terms of Service\nand Privacy Policy.</string>
+    <string name="groc">Products</string>
+    <string name="find_produc">Find Products</string>
+    <string name="basket">Add To Basket</string>
+    <string name="Add_All_To_Cart">Add All To Cart</string>
+    <string name="log_out">Log Out</string>
+    <string name="place_order">Place Order</string>
+    <string name="track_order">Track Order</string>
+    <string name="back_to_hom">Back to home</string>
+    <string name="go_to_check">Go to Checkout</string>
+</resources>

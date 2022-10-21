@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="get_button">
+
+        <item name="android:background">
+            #53B175
+        </item>
+    </style>
+</resources>
